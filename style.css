@@ -21,3 +21,7 @@ body {
 .btn-chose {
   background-color: #f5dae9 !important;
 }
+.fa-star-half-alt,
+.fa-star {
+  color: goldenrod;
+}
