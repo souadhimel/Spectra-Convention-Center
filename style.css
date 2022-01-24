@@ -25,3 +25,22 @@ body {
 .fa-star {
   color: goldenrod;
 }
+.alert {
+  position: absolute !important;
+  margin-left: 300px;
+  border-left: 8px solid blue !important;
+  color: blue;
+  font-size: 15px !important;
+}
+.heading {
+  font-size: 30px !important;
+  font-weight: bold !important;
+  margin-left: 70px;
+}
+.nav-item {
+  font-weight: bold !important;
+  margin-right: 30px;
+}
+.color {
+  color: red;
+}
